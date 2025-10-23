@@ -1,27 +1,33 @@
 AI-Powered Exploratory Data Analysis for A Regional Community College
 ________________________________________
-Executive Summary
+Executive Summary:
+
 This project uncovers what drives student satisfaction and professor effectiveness at a Regional Community College. Using Amazon QuickSight for visualization and Generative AI (Amazon Q) for automated insights, the analysis revealed actionable trends that help leadership improve faculty performance and course value.
 Through AI-assisted analysis, the institution can enhance the student experience by up to 15%—without increasing operational costs.
 ________________________________________
-Business Problem
+Business Problem:
+
 The Board of Directors at Regional Community College wanted to better understand:
 •	Which professors consistently earn the highest evaluations
 •	What academic and structural factors drive student satisfaction
 •	How to improve teaching quality and student outcomes without raising course costs
 As the data analyst supporting this initiative, my objective was to turn a large collection of enrollment records, academic results, and course evaluations into insightful dashboards and clear business recommendations that drive decision-making.
 ________________________________________
-Project Objectives
+Project Objectives:
+
 1.	Identify measurable patterns behind high professor ratings and student satisfaction.
 2.	Highlight improvement opportunities while maintaining affordability.
 3.	Demonstrate how Generative AI can accelerate analytics and storytelling.
 4.	Present findings through interactive dashboards that the board can explore.
 ________________________________________
-Data & Tools
-Tool	Purpose
+Data & Tools:
+
 Amazon QuickSight	Interactive dashboards and KPI visualizations
+
 Amazon Q (Generative AI)	Natural-language queries and automated insight summaries
+
 Python / SQL	Data cleaning, integration, and metric calculation
+
 Excel / CSV Files	Student enrollment, academic, and evaluation datasets
 ________________________________________
 Methodology
@@ -39,18 +45,22 @@ Created QuickSight dashboards showing:
 4. Generative AI Integration
 Leveraged Amazon Q to automatically generate executive-level summaries of insights. This provided concise narratives for board meetings and strategic reports.
 ________________________________________
-Key Insights
+Key Insights:
+
 •	Top-Performing Faculty: Professors with consistent student feedback cycles and smaller class sizes achieved evaluation scores 12% higher than peers.
-•	Primary Satisfaction Driver: Demonstrated that increasing class sizes in humanities courses would improve student satisfaction while minimizing additional course costs.
-•	Operational Efficiency: Automating insight generation reduced manual dashboard maintenance by 60%, saving the analytics team approximately 80 hours per semester.
-•	Cost-Neutral Improvements: Quality gains were achieved through faculty development initiatives—without additional tuition or course cost increases.
+Primary Satisfaction Driver: Demonstrated that increasing class sizes in humanities courses would improve student satisfaction while minimizing additional course costs.
+•	
+Operational Efficiency: Automating insight generation reduced manual dashboard maintenance by 60%, saving the analytics team approximately 80 hours per semester.
+•	
+Cost-Neutral Improvements: Quality gains were achieved through faculty development initiatives—without additional tuition or course cost increases.
 ________________________________________
 Business Recommendations
 1.	Faculty Development: Expand instructor feedback programs emphasizing clarity and engagement.
 2.	Course Design: Prioritize a larger humanities class size and balanced workloads for improved satisfaction.
 3.	Continuous Monitoring: Maintain a live QuickSight dashboard for quarterly performance tracking.
 ________________________________________
-Business Impact & Next Steps
+Business Impact & Next Steps:
+
 •	Estimated 15% increase in student satisfaction within one academic year.
 •	60% reduction in manual analysis time via AI-driven automation.
 •	Improved data transparency for the Board, enabling faster strategic decisions.
@@ -62,7 +72,8 @@ Next Steps:
 •	Evaluate the scalability of AI insights for cross-campus comparisons.
 ________________________________________
 
-Key Skills Demonstrated
+Key Skills Demonstrated:
+
 •	Data Visualization & Dashboard Design (Amazon QuickSight)
 •	Generative AI Application (Amazon Q)
 •	Business Storytelling & Executive Communication
